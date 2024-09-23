@@ -1,0 +1,14 @@
+body h5{
+    text-align: center;
+    font-size: xx-large;
+background-color:blue ;
+}
+.container{
+    justify-content: space-between;
+}
+p{
+background-color: brown;
+} 
+img{margin: 50px;
+
+}
